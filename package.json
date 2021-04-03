@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.14.37"
+  },
+  "dependencies": {
+    "futoin-hkdf": "^1.3.3"
   }
 }
